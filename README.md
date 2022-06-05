@@ -10,10 +10,11 @@ The project explores how to efficently produce an analyis of temperature trends 
 
 ### June Statictics
 ![name-of-you-image](https://github.com/skinnytwinvale/Surfs_up/blob/69a929c3b0e1b8f026b463b5f5caedfbf41b2228/Resources/June%20Chart.png)
-
+![name-of-you-image](https://github.com/skinnytwinvale/Surfs_up/blob/6f3515e8b2da4f1ef772c4ff5fb72f6c3c1f7a62/Resources/June%20Temp.png)
 
 ### December Statistics
 ![name-of-you-image](https://github.com/skinnytwinvale/Surfs_up/blob/7d4a5af6517d1e6a4331b69e4f4f135cd71a1c1f/Resources/December%20Chart.png)
+![name-of-you-image](https://github.com/skinnytwinvale/Surfs_up/blob/6f3515e8b2da4f1ef772c4ff5fb72f6c3c1f7a62/Resources/Dec%20temp.png)
 
 #### Key Points
 
