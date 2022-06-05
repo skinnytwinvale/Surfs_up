@@ -9,7 +9,7 @@ The project explores how to efficently produce an analyis of temperature trends 
 ## Results
 
 ### June Statictics
-![name-of-you-image][[https://github.com/skinnytwinvale/Surfs_up/blob/main/Resources/June%20Chart.png]
+![name-of-you-image]Resources/December Chart.png
 
 
 ## Summary
