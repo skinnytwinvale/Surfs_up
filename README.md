@@ -8,13 +8,23 @@ The project explores how to efficently produce an analyis of temperature trends 
 
 ## Results
 
-#### June Statictics
+### June Statictics
 ![name-of-you-image](https://github.com/skinnytwinvale/Surfs_up/blob/69a929c3b0e1b8f026b463b5f5caedfbf41b2228/Resources/June%20Chart.png)
 
 
-#### December Statistics
+### December Statistics
 ![name-of-you-image](https://github.com/skinnytwinvale/Surfs_up/blob/7d4a5af6517d1e6a4331b69e4f4f135cd71a1c1f/Resources/December%20Chart.png)
 
+#### Key Points
 
+- The mean temperature for June (75 Degrees) is slightly higher from Decembers (72 degrees) but is not too far apart in difference which is a positive thing. It's only a 5 persent change in average temperature.
+
+- Although you might think because June is the summer season precipitation would be higher, but it is far from true. December has a higher rate in precipitation than the month of June.
+
+- June seems to have a more predictable outcome of temperature for the season. December is a little more rocky when is comes to the temperature although it still rises and drops in the same direction like the moonth of June.
+
+- December has a larger range in temperature changes then June given its larger range in temperature recordings.
 
 ## Summary
+
+
