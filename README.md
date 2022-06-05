@@ -29,4 +29,6 @@ The project explores how to efficently produce an analyis of temperature trends 
 
 ## Summary
 
+Based on the outcomes of the project I advise from summarizing the data, would be to still open up the shop.
+ The average temperatures in both June and December only differ by five degrees. Although the first few temperatures recorded were in the 60's it would be a bad decision to not open the shop based on the first few recording when on average the temperature is 70 degrees in December. Both charts are fairly similar, although December does have a wider range, for the most part they're both going the same direction and the precipitation is not high for either months. I believe the data i provided supports the investors decision to open shop in December as well.
 
