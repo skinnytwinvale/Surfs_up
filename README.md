@@ -337,9 +337,6 @@ For this part of the Challenge, write a report that describes the key difference
 
 
 **December Temps - Report**
-> Image with `Jupyter Notebook` & `Python` Code below.
-
-![name-of-you-image](https://github.com/emmanuelmartinezs/surfs_up/blob/main/Resources/Images/2.4.PNG?raw=true)
 
 
 3. **Summary:** Based on our Data Analysis, Data Provided, we can state as a high-level summary of results that Standard deviation is 3.25 in June and 3.75 in December, making a 0.5 difference between both seasons.
