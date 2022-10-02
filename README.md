@@ -295,8 +295,6 @@ df.set_index(df['date'], inplace=True)
 df.describe()
 ````
 
-![name-of-you-image](https://github.com/emmanuelmartinezs/surfs_up/blob/main/Resources/Images/2.4.PNG?raw=true)
-
 
 
 ## Deliverable 3: A written report for the statistical analysis
