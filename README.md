@@ -120,8 +120,6 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
 
 
 ````Python
-# By Emmanuel Martinez
-# Module 9
 
 %matplotlib inline
 from matplotlib import style
